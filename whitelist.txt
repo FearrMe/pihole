@@ -23,4 +23,3 @@ i.imgur.com
 m.imgur.com
 youtu.be
 events.gfe.nvidia.com
-google.com
